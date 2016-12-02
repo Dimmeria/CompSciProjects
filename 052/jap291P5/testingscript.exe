@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./3000.exe > output.txt
+./2000.exe >> output.txt
+./1000.exe >> output.txt

@@ -1,0 +1,174 @@
+invoking function to bubble sort list with 3000 elements
+Entered member function bubbleSort()
+Exiting member function bubbleSort() 
+swapCount = 2222803
+bubbleSort results:
+Start time:	28637
+End time:	59891748
+Elapsed time:	59.8631
+
+
+invoking function to bubble sort (iterator version) list with 3000 elements
+Entered member function bubbleSortI()
+Exiting member function bubbleSortI() 
+swapCount = 2222803
+bubbleSortI results:
+Start time:	59904705
+End time:	60095136
+Elapsed time:	0.190431
+
+
+invoking function to selection sort list with 3000 elements
+Entered function selectionSort() 
+Exiting function selectionSort() 
+swapCount = 2993
+selectionSort results:
+Start time:	60108074
+End time:	105017818
+Elapsed time:	44.9097
+
+
+invoking function to binarySearch sorted list for the value 2011/04/23
+Found value 2011/04/23 at index 2970
+Start time:	105017882
+End time:	105018027
+Elapsed time:	0.000145
+
+
+invoking function to binarySearch sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	105018080
+End time:	105018102
+Elapsed time:	2.2e-05
+
+
+invoking function to linearSearch un-sorted list for the value 1984/04/17
+Found value 1984/04/17 at index 2970
+Start time:	105031875
+End time:	105045242
+Elapsed time:	0.013367
+
+
+invoking function to linearSearch un-sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	105045293
+End time:	105058701
+Elapsed time:	0.013408
+
+
+invoking function to bubble sort list with 2000 elements
+Entered member function bubbleSort()
+Exiting member function bubbleSort() 
+swapCount = 963916
+bubbleSort results:
+Start time:	13556
+End time:	17559555
+Elapsed time:	17.546
+
+
+invoking function to bubble sort (iterator version) list with 2000 elements
+Entered member function bubbleSortI()
+Exiting member function bubbleSortI() 
+swapCount = 963916
+bubbleSortI results:
+Start time:	17565420
+End time:	17648608
+Elapsed time:	0.083188
+
+
+invoking function to selection sort list with 2000 elements
+Entered function selectionSort() 
+Exiting function selectionSort() 
+swapCount = 1989
+selectionSort results:
+Start time:	17654454
+End time:	30935104
+Elapsed time:	13.2806
+
+
+invoking function to binarySearch sorted list for the value 2011/05/24
+Found value 2011/05/24 at index 1980
+Start time:	30935154
+End time:	30935263
+Elapsed time:	0.000109
+
+
+invoking function to binarySearch sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	30935290
+End time:	30935313
+Elapsed time:	2.3e-05
+
+
+invoking function to linearSearch un-sorted list for the value 2002/11/15
+Found value 2002/11/15 at index 1980
+Start time:	30941114
+End time:	30946688
+Elapsed time:	0.005574
+
+
+invoking function to linearSearch un-sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	30946714
+End time:	30952383
+Elapsed time:	0.005669
+
+
+invoking function to bubble sort list with 1000 elements
+Entered member function bubbleSort()
+Exiting member function bubbleSort() 
+swapCount = 254179
+bubbleSort results:
+Start time:	4309
+End time:	2225598
+Elapsed time:	2.22129
+
+
+invoking function to bubble sort (iterator version) list with 1000 elements
+Entered member function bubbleSortI()
+Exiting member function bubbleSortI() 
+swapCount = 254179
+bubbleSortI results:
+Start time:	2227133
+End time:	2247510
+Elapsed time:	0.020377
+
+
+invoking function to selection sort list with 1000 elements
+Entered function selectionSort() 
+Exiting function selectionSort() 
+swapCount = 989
+selectionSort results:
+Start time:	2249021
+End time:	3906530
+Elapsed time:	1.65751
+
+
+invoking function to binarySearch sorted list for the value 2011/05/24
+Found value 2011/05/24 at index 990
+Start time:	3906573
+End time:	3906618
+Elapsed time:	4.5e-05
+
+
+invoking function to binarySearch sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	3906640
+End time:	3906655
+Elapsed time:	1.5e-05
+
+
+invoking function to linearSearch un-sorted list for the value 1675/04/13
+Found value 1675/04/13 at index 990
+Start time:	3908153
+End time:	3909575
+Elapsed time:	0.001422
+
+
+invoking function to linearSearch un-sorted list for the value 1492/08/02
+1492/08/02 not found in the list.
+Start time:	3909614
+End time:	3911033
+Elapsed time:	0.001419
+
+

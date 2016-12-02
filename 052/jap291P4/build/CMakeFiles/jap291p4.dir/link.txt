@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/jap291p4.dir/main.cpp.o  -o jap291p4 -rdynamic 
